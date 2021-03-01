@@ -1,0 +1,19 @@
+{
+  "name": "node-bigstalker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sabotageBR/node-bigstalker.git"
+  },
+  "author": "Evandro Moura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabotageBR/node-bigstalker/issues"
+  },
+  "homepage": "https://github.com/sabotageBR/node-bigstalker#readme"
+}
