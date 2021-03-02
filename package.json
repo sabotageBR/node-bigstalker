@@ -2,7 +2,7 @@
   "name": "node-bigstalker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sabotageBR/node-bigstalker/issues"
   },
-  "homepage": "https://github.com/sabotageBR/node-bigstalker#readme"
+  "homepage": "https://github.com/sabotageBR/node-bigstalker#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
 }
