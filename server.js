@@ -7,4 +7,4 @@ require('./src/Routes/index')(app);
 app.use(cors());
 app.use(express.json());
 
-app.listen(5000);
+app.listen(3000);
