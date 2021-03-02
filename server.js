@@ -6,4 +6,5 @@ require('./src/Routes/index')(app);
 
 app.use(cors());
 app.use(express.json());
+
 app.listen(3333);
